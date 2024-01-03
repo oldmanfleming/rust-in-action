@@ -1,3 +1,3 @@
-# Source code from Rust in Action
+# rust-in-action
 
-Ref: https://www.manning.com/books/rust-in-action
+Code from working through the book [Rust in Action](https://www.manning.com/books/rust-in-action)
